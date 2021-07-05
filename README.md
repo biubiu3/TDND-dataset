@@ -1,7 +1,7 @@
 # TDND-dataset
 Publish TDND dataset
 
-This is a small manually selected data for display. The official complete datasets will be released later.
+This is a small manually selected data for preview. The official complete datasets will be released later.
 
 
 Google Drive:
