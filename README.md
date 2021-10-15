@@ -13,7 +13,7 @@ https://drive.google.com/drive/folders/1a_nkXwA-1uKBv4yWcJhnBaFxn-era-1f?usp=sha
 ```
 Onedrive (full):
 
-https://buaaeducn-my.sharepoint.com/:f:/g/personal/niechang_buaa_edu_cn/EhbiBn5oJ6JBhiNctPllWGUBoMIrmhXeocWiF5iiK6WPRw?e=3K2jA6
+https://bit.ly/3p0x2mR
 ```
 
 ```
