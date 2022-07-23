@@ -27,7 +27,8 @@ code: 6666
 ```
 Beihang Yunpan (full):
 
-https://bhpan.buaa.edu.cn:443/link/A23AF465650154EF8CE08E14748EEB3D
+https://bhpan.buaa.edu.cn:443/link/39806630F3E2ADF2DD6A2B43BBFCDD9A
+
 ```
 
 
